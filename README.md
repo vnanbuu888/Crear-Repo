@@ -1,2 +1,2 @@
 # Crear-Repo
-actividad de probabilidad
+actividad/tareas de probabilidad
